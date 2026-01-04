@@ -55,7 +55,7 @@ A classic memory matching game built with React to demonstrate complex state man
 - Using CSS perspective to create realistic 3D flipping effects without external libraries.
 - Preventing edge cases where users click multiple cards rapidly.
 
-  ##LIVE DEMO :
+  ##LIVE DEMO : https://day8-memory-game.vercel.app/
 
 ---
 
